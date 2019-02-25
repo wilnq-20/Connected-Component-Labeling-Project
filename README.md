@@ -1,5 +1,5 @@
 # Connected-Component-Labeling-Project
-*Respopnsible for completing "label.cpp" and "queue.cpp"
+*Responsible for completing "label.cpp" and "queue.cpp"
 
 In order to perform connected-component labeling you have to implement breadth-first search, a simple search algorithm that after the first pixel of a connected component -- an object -- is found, searches for all the connected pixels of that connected component and labels them. Following the labeling stage, the image may be partitioned into objects.
 
